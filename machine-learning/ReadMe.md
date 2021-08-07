@@ -1,4 +1,4 @@
-<h1>Machine learning stuff - note these models are currently unfinished. 
+<h1>Machine learning stuff - note these models are currently not completed. 
 
 *Projects
 
