@@ -1,7 +1,7 @@
 
 # Data Science Repository
 
-A bunch of simple ML algorithms implemented in Python 3 ScikitLearn for [predicting the sentiment of book reviews](https://github.com/zadolphe/datascience/tree/main/SkLearn)
+A bunch of simple ML algorithms implemented in Python 3 ScikitLearn for [predicting the sentiment of book reviews](/SkLearn/Sk-learn-intro.ipynb)
 
 Visualizations using matplotlib and seaborn of [occupation earnings, economic data including employment trends, bias in movie review sites](/data-viz) 
 
