@@ -5,4 +5,6 @@ A bunch of simple ML algorithms implemented in Python 3 ScikitLearn for [predict
 
 Story Telling of gender differences between degrees [Data Visualizations](/Story-telling-data-viz)
 
+Visualizations using matplotlib and seaborn of [movie data reviews](/data-viz) 
+
 Probability and statistics [noteboooks](/stats-and-probability)
