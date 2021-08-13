@@ -7,7 +7,7 @@ Visualizations using matplotlib and seaborn of [occupation earnings, economic da
 
 Story Telling of gender differences between degrees [Data Visualizations](/Story-telling-data-viz)
 
-[Data Cleaning and Wrangling](/)
+[Data Cleaning, Wrangling and analysis](/Data-cleaning-and-analysis)
 
 Probability and statistics [noteboooks](/stats-and-probability)
 
