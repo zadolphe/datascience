@@ -1,4 +1,4 @@
-Predicting book reviews sentiment using ScikiLearn machine learning library. 
+Predicting book reviews sentiment using ScikitLearn machine learning library. 
 See my [sentiment analysis book review project](/SkLearn)
 
 
