@@ -11,4 +11,4 @@ Story Telling of gender differences between degrees [Data Visualizations](/Story
 
 Probability and statistics [noteboooks](/stats-and-probability)
 
-Note that notebooks are designed to be viewed in github and view export png and jpeg files
+Note that notebooks are designed to be viewed in github with some visuals exported to png and jpeg files in folders
