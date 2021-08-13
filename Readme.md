@@ -1,7 +1,8 @@
-Data Science Repository
-  A bunch of simple ML algorithms implemented in Python 3 ScikitLearn are [here](https://github.com/zadolphe/datascience/tree/main/SkLearn)
+
+# Data Science Repository
+
+A bunch of simple ML algorithms implemented in Python 3 ScikitLearn for [predicting the sentiment of book reviews](https://github.com/zadolphe/datascience/tree/main/SkLearn)
 Predicting book reviews sentiment using ScikitLearn machine learning library. 
-See my [sentiment analysis book review project](/SkLearn)
 
 
 Data Cleaning, visualization and analysis:
