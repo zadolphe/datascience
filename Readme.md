@@ -11,6 +11,6 @@ Story Telling of gender differences between degrees [Data Visualizations](/Story
 
 Probability and statistics [noteboooks](/stats-and-probability)
 
-Real estate [price prediction and forecasting](/real-estate-price-prediciton)
+Real estate [price prediction and forecasting](/real-estate-price-prediction)
 
 Note that notebooks are designed to be viewed in github with some visuals exported to png and jpeg files in folders
